@@ -27,7 +27,7 @@ div[data-role="controlgroup"] a[data-role="button"] {
 
 /*Stop covers from being scrolled*/
 .detailImageContainer .card {
-    position: fixed!important;
+    position: fixed;
 }	
 /*Top "task bar" enlarge text*/
 .headerTabs.sectionTabs {
